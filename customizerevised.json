@@ -1,0 +1,23 @@
+{
+  "greeting": "Hey there!",
+  "name": "John",
+  "greetingText": "You always make everything more fun!",
+  "wishText": "May your bugs be few and your commits always smooth! 😆",
+  "imagePath": "img/lydia2.png",
+  "text1": "It's your birthday!!! 🥳",
+  "textInChatBox": "Happy birthday to the most awesome person! 🎉 Hope you have a day filled with joy and laughter!",
+  "sendButtonLabel": "Send",
+  "text2": "I was going to send a plain birthday text.",
+  "text3": "But that’s not my style.",
+  "text4": "You deserve something",
+  "text4Adjective": "cool",
+  "text5Entry": "Because...",
+  "text5Content": "You make every day special!",
+  "smiley": "😎",
+  "bigTextPart1": "J",
+  "bigTextPart2": "D",
+  "wishHeading": "Happy Birthday, John!",
+  "outroText": "Hope you enjoyed this little surprise! 😊",
+  "replayText": "Or click replay if you want to watch it again!",
+  "outroSmiley": "😉"
+}
