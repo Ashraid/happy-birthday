@@ -16,7 +16,8 @@
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
-  "wishHeading": "Happy Birthday, pasandida mard!",
+  "imageOverlayText: "Happy Birthday, pasandida mard!",
+  "overlayPosition": "top",
   "outroText": "Hope this made you smile a little",
   "replayText": "if not, keep hitting replay until you do !",
   "outroSmiley": "<3"
