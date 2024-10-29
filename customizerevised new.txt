@@ -1,0 +1,23 @@
+{
+  "greeting": "Hey hey!",
+  "name": "Sillybirdo",
+  "greetingText": "Mulank 4 walo ki rashi mai aaj sad hona mana hai",
+  "wishText": "May your code compile without errors and your coffee stay strong! 💻☕️",
+  "imagePath": "img/sillybird-punpun.png",
+  "text1": "Becaaauusee, it’s your birthday! 🎂",
+  "textInChatBox": "Happy birthday, may your life be blah blah blah",
+  "sendButtonLabel": "Send",
+  "text2": "I was going to just send a boring birthday text,",
+  "text3": "But let’s be real, you deserve something more awesome.",
+  "text4": "So here’s something",
+  "text4Adjective": "extra silly",
+  "text5Entry": "Because...",
+  "text5Content": "Dur hai toh kya hua, simping rukni nahi chahiye😘",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday, pasandida mard!",
+  "outroText": "Hope this made you smile a little",
+  "replayText": "if not, keep hitting replay until you do !",
+  "outroSmiley": "<3"
+}
