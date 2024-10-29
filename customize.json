@@ -4,8 +4,6 @@
   "greetingText": "Mulank 4 walo ki rashi mai aaj sad hona mana hai",
   "wishText": "May your code compile without errors and your coffee stay strong! 💻☕️",
   "imagePath": "img/sillybird-punpun.png",
-  "wishHeading": "Happy Birthday, pasandida mard!",
-  "wishHeadingPosition": "overlay", 
   "text1": "Becaaauusee, it’s your birthday! 🎂",
   "textInChatBox": "Happy birthday, may your life be blah blah blah",
   "sendButtonLabel": "Send",
@@ -18,6 +16,8 @@
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
+  "imageOverlayText": "Happy Birthday, pasandida mard!",
+  "overlayPosition": "top-centre",
   "outroText": "Hope this made you smile a little",
   "replayText": "if not, keep hitting replay until you do !",
   "outroSmiley": "<3"
