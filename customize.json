@@ -5,7 +5,7 @@
   "wishText": "May your code compile without errors and your coffee stay strong! 💻☕️",
   "imagePath": "img/sillybird-punpun.png",
   "wishHeading": "Happy Birthday, pasandida mard!",
-  "wishHeadingPosition": "top", 
+  "wishHeadingPosition": "overlay", 
   "text1": "Becaaauusee, it’s your birthday! 🎂",
   "textInChatBox": "Happy birthday, may your life be blah blah blah",
   "sendButtonLabel": "Send",
